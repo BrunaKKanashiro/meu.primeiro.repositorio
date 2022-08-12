@@ -1,1 +1,3 @@
-# meu.primeiro.repositorio
+# Aulta Git GitHub
+## Iniciando
+:zap:
